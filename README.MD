@@ -44,3 +44,4 @@ Key and doors 🔑🔒🔒🔒
 
 5. You start to play. Good luck! 🎃
 
+![Screenshot](gameScreenCut.JPG)
