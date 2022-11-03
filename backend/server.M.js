@@ -7,11 +7,11 @@ import bodyParser from "body-parser";
 
 const mssql = require("mssql");
 const config = {
-  user: "sa",
-  password: "Vic2006",
-  server: "localhost",
-  database: "inceptionU2022",
-  encrypt: false,
+  user: process.env.user,
+  password: process.env.password,
+  server: process.env.server,
+  database: process.env.database,
+  encrypt: process.env.encrypt == "true",
 };
 
 mssql.connect(config, function (err) {
