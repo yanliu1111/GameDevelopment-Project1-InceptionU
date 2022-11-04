@@ -29,9 +29,9 @@ Key and doors 🔑🔒🔒🔒
 
 ### The dependencies I used for this game
 
-**Frontend**: “Chalk” “chalk-animation”“dotenv”“node-fetch”“readline-sync”
+**Frontend**: “Chalk” “chalk-animation” “dotenv” “node-fetch” “readline-sync”
 
-**Backend**:“express”“mssql”“mongoose”“body-parser”“cors”
+**Backend**:“express”“mssql” “mongoose” “body-parser” “cors” “dotenv”
 
 ### How to play
 
